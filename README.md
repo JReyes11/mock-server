@@ -24,9 +24,11 @@ The server will be accessible via http://localhost:3000.
 ![Starting the server](assets/mock-server-users.gif)
 
 `GET /products`: 
+
 ![Products Endpoint](assets/mock-server-products.gif)
 
 `GET /orders`
+
 ![Orders Endpoint](assets/mock-servers-orders.gif)
 
 

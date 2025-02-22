@@ -29,7 +29,7 @@ The server will be accessible via http://localhost:3000.
 
 `GET /orders`
 
-![Orders Endpoint](assets/mock-servers-orders.gif)
+![Orders Endpoint](assets/mock-server-orders.gif)
 
 
 ### Scripts

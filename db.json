@@ -14,8 +14,16 @@
           "department": "music",
           "price": 16
         },
-        { "id": "978-0-04-813606-0", "department": "books", "price": 17 },
-        { "id": "978-0-524-46717-6", "department": "books", "price": 16 }
+        {
+          "id": "978-0-04-813606-0",
+          "department": "books",
+          "price": 17
+        },
+        {
+          "id": "978-0-524-46717-6",
+          "department": "books",
+          "price": 16
+        }
       ],
       "totalItems": 4,
       "totalPrice": 66
@@ -29,8 +37,16 @@
           "department": "music",
           "price": 22
         },
-        { "id": "978-0-7536-5990-8", "department": "books", "price": 18 },
-        { "id": "978-0-04-813606-0", "department": "books", "price": 17 },
+        {
+          "id": "978-0-7536-5990-8",
+          "department": "books",
+          "price": 18
+        },
+        {
+          "id": "978-0-04-813606-0",
+          "department": "books",
+          "price": 17
+        },
         {
           "id": "286335b1-8531-4844-8070-8ea26fd09d31",
           "department": "music",
@@ -54,8 +70,16 @@
           "department": "music",
           "price": 18
         },
-        { "id": "978-1-107-33691-9", "department": "books", "price": 15 },
-        { "id": "978-0-366-53039-7", "department": "books", "price": 20 },
+        {
+          "id": "978-1-107-33691-9",
+          "department": "books",
+          "price": 15
+        },
+        {
+          "id": "978-0-366-53039-7",
+          "department": "books",
+          "price": 20
+        },
         {
           "id": "4704d833-8a7c-460c-a61e-1069261d219e",
           "department": "music",
@@ -92,15 +116,31 @@
       "id": "df2fa5d8-7377-49f0-819f-a8ea0ab848e7",
       "email": "Sydney150@interface.com",
       "items": [
-        { "id": "978-1-9821-4567-5", "department": "books", "price": 16 },
+        {
+          "id": "978-1-9821-4567-5",
+          "department": "books",
+          "price": 16
+        },
         {
           "id": "8d618c33-bf93-48d1-86b6-8aeb442019d3",
           "department": "music",
           "price": 15
         },
-        { "id": "978-1-56376-709-8", "department": "books", "price": 20 },
-        { "id": "978-0-8039-3096-4", "department": "books", "price": 15 },
-        { "id": "978-0-371-48520-0", "department": "books", "price": 20 },
+        {
+          "id": "978-1-56376-709-8",
+          "department": "books",
+          "price": 20
+        },
+        {
+          "id": "978-0-8039-3096-4",
+          "department": "books",
+          "price": 15
+        },
+        {
+          "id": "978-0-371-48520-0",
+          "department": "books",
+          "price": 20
+        },
         {
           "id": "e810fab4-1db3-4e8a-9a27-8603e3b1527e",
           "department": "music",
@@ -175,7 +215,11 @@
           "department": "music",
           "price": 20
         },
-        { "id": "978-0-8039-3096-4", "department": "books", "price": 15 },
+        {
+          "id": "978-0-8039-3096-4",
+          "department": "books",
+          "price": 15
+        },
         {
           "id": "62ecaf8a-c0ae-4689-9ff0-9202c85762ea",
           "department": "music",
@@ -217,8 +261,16 @@
       "id": "29d4bf20-2000-47c4-be2d-ca231c1e1070",
       "email": "Josue155@program.com",
       "items": [
-        { "id": "978-1-75587-108-4", "department": "books", "price": 15 },
-        { "id": "978-0-357-83307-0", "department": "books", "price": 15 },
+        {
+          "id": "978-1-75587-108-4",
+          "department": "books",
+          "price": 15
+        },
+        {
+          "id": "978-0-357-83307-0",
+          "department": "books",
+          "price": 15
+        },
         {
           "id": "cf25568d-ce7c-4863-847f-5b4049d731fd",
           "department": "music",
@@ -247,7 +299,11 @@
           "department": "music",
           "price": 18
         },
-        { "id": "978-0-04-813606-0", "department": "books", "price": 17 },
+        {
+          "id": "978-0-04-813606-0",
+          "department": "books",
+          "price": 17
+        },
         {
           "id": "ad650d6b-ba9c-42bb-8fa3-b7e13e35b49b",
           "department": "music",
@@ -271,9 +327,21 @@
       "id": "1d40d0e7-df99-42ea-a1f9-b708f88cf54b",
       "email": "Lolita984@array.com",
       "items": [
-        { "id": "978-1-4741-7413-8", "department": "books", "price": 23 },
-        { "id": "978-1-6631-6465-0", "department": "books", "price": 21 },
-        { "id": "978-1-359-68117-1", "department": "books", "price": 22 },
+        {
+          "id": "978-1-4741-7413-8",
+          "department": "books",
+          "price": 23
+        },
+        {
+          "id": "978-1-6631-6465-0",
+          "department": "books",
+          "price": 21
+        },
+        {
+          "id": "978-1-359-68117-1",
+          "department": "books",
+          "price": 22
+        },
         {
           "id": "ae6c7910-f166-4efd-8c35-e88fa1d58774",
           "department": "music",
@@ -328,7 +396,11 @@
       "id": "c18a4cd1-404d-476d-8b51-f516a9ddf9a4",
       "email": "Shanel321@application.com",
       "items": [
-        { "id": "978-0-357-83307-0", "department": "books", "price": 15 },
+        {
+          "id": "978-0-357-83307-0",
+          "department": "books",
+          "price": 15
+        },
         {
           "id": "8d618c33-bf93-48d1-86b6-8aeb442019d3",
           "department": "music",
@@ -347,14 +419,26 @@
       "id": "90204560-b874-42f7-bd46-01e47a7dcd5a",
       "email": "Philip440@bandwidth.com",
       "items": [
-        { "id": "978-1-56376-709-8", "department": "books", "price": 20 },
+        {
+          "id": "978-1-56376-709-8",
+          "department": "books",
+          "price": 20
+        },
         {
           "id": "4704d833-8a7c-460c-a61e-1069261d219e",
           "department": "music",
           "price": 19
         },
-        { "id": "978-1-4741-7413-8", "department": "books", "price": 23 },
-        { "id": "978-0-366-53039-7", "department": "books", "price": 20 },
+        {
+          "id": "978-1-4741-7413-8",
+          "department": "books",
+          "price": 23
+        },
+        {
+          "id": "978-0-366-53039-7",
+          "department": "books",
+          "price": 20
+        },
         {
           "id": "70eb252f-57fe-4c3d-a7d7-494c4fc02bf5",
           "department": "music",
@@ -373,7 +457,11 @@
       "id": "acde876d-6bb6-45da-91e9-db2595127816",
       "email": "Sydney150@interface.com",
       "items": [
-        { "id": "978-1-9821-4567-5", "department": "books", "price": 16 },
+        {
+          "id": "978-1-9821-4567-5",
+          "department": "books",
+          "price": 16
+        },
         {
           "id": "1e3f255d-d717-47e4-999e-4803ee68f2f2",
           "department": "music",
@@ -397,7 +485,11 @@
           "department": "music",
           "price": 20
         },
-        { "id": "978-1-107-33691-9", "department": "books", "price": 15 }
+        {
+          "id": "978-1-107-33691-9",
+          "department": "books",
+          "price": 15
+        }
       ],
       "totalItems": 3,
       "totalPrice": 52
@@ -416,7 +508,11 @@
           "department": "music",
           "price": 15
         },
-        { "id": "978-0-7573-7255-1", "department": "books", "price": 19 },
+        {
+          "id": "978-0-7573-7255-1",
+          "department": "books",
+          "price": 19
+        },
         {
           "id": "e810fab4-1db3-4e8a-9a27-8603e3b1527e",
           "department": "music",
@@ -427,7 +523,11 @@
           "department": "music",
           "price": 20
         },
-        { "id": "978-1-107-33691-9", "department": "books", "price": 15 }
+        {
+          "id": "978-1-107-33691-9",
+          "department": "books",
+          "price": 15
+        }
       ],
       "totalItems": 6,
       "totalPrice": 108
@@ -454,7 +554,11 @@
           "department": "music",
           "price": 18
         },
-        { "id": "978-0-07-204318-1", "department": "books", "price": 15 },
+        {
+          "id": "978-0-07-204318-1",
+          "department": "books",
+          "price": 15
+        },
         {
           "id": "03bd7c5a-e348-4268-8843-ea31f8c0605c",
           "department": "music",
@@ -473,13 +577,21 @@
       "id": "2b674713-f952-45cb-a34d-c1b335a2600c",
       "email": "Patience172@feed.com",
       "items": [
-        { "id": "978-0-371-48520-0", "department": "books", "price": 20 },
+        {
+          "id": "978-0-371-48520-0",
+          "department": "books",
+          "price": 20
+        },
         {
           "id": "62ecaf8a-c0ae-4689-9ff0-9202c85762ea",
           "department": "music",
           "price": 20
         },
-        { "id": "978-0-357-83307-0", "department": "books", "price": 15 },
+        {
+          "id": "978-0-357-83307-0",
+          "department": "books",
+          "price": 15
+        },
         {
           "id": "ae6c7910-f166-4efd-8c35-e88fa1d58774",
           "department": "music",
@@ -516,13 +628,21 @@
       "id": "0e0a2e1c-1a36-4e26-9f70-2526f1b978b1",
       "email": "Philip440@bandwidth.com",
       "items": [
-        { "id": "978-1-56376-709-8", "department": "books", "price": 20 },
+        {
+          "id": "978-1-56376-709-8",
+          "department": "books",
+          "price": 20
+        },
         {
           "id": "03bd7c5a-e348-4268-8843-ea31f8c0605c",
           "department": "music",
           "price": 18
         },
-        { "id": "978-0-371-48520-0", "department": "books", "price": 20 }
+        {
+          "id": "978-0-371-48520-0",
+          "department": "books",
+          "price": 20
+        }
       ],
       "totalItems": 3,
       "totalPrice": 58
@@ -541,7 +661,11 @@
           "department": "music",
           "price": 15
         },
-        { "id": "978-1-135-29988-0", "department": "books", "price": 15 },
+        {
+          "id": "978-1-135-29988-0",
+          "department": "books",
+          "price": 15
+        },
         {
           "id": "e810fab4-1db3-4e8a-9a27-8603e3b1527e",
           "department": "music",
@@ -565,7 +689,11 @@
           "department": "music",
           "price": 18
         },
-        { "id": "978-1-4463-0585-0", "department": "books", "price": 21 },
+        {
+          "id": "978-1-4463-0585-0",
+          "department": "books",
+          "price": 21
+        },
         {
           "id": "62ecaf8a-c0ae-4689-9ff0-9202c85762ea",
           "department": "music",
@@ -576,7 +704,11 @@
           "department": "music",
           "price": 20
         },
-        { "id": "978-0-357-83307-0", "department": "books", "price": 15 },
+        {
+          "id": "978-0-357-83307-0",
+          "department": "books",
+          "price": 15
+        },
         {
           "id": "ae6c7910-f166-4efd-8c35-e88fa1d58774",
           "department": "music",
@@ -595,7 +727,11 @@
           "department": "music",
           "price": 16
         },
-        { "id": "978-0-8039-3096-4", "department": "books", "price": 15 }
+        {
+          "id": "978-0-8039-3096-4",
+          "department": "books",
+          "price": 15
+        }
       ],
       "totalItems": 2,
       "totalPrice": 31
@@ -609,8 +745,16 @@
           "department": "music",
           "price": 22
         },
-        { "id": "978-0-7536-5990-8", "department": "books", "price": 18 },
-        { "id": "978-0-366-53039-7", "department": "books", "price": 20 },
+        {
+          "id": "978-0-7536-5990-8",
+          "department": "books",
+          "price": 18
+        },
+        {
+          "id": "978-0-366-53039-7",
+          "department": "books",
+          "price": 20
+        },
         {
           "id": "21e77f80-2380-4c3e-aaf6-498a33e61bcf",
           "department": "music",
@@ -634,13 +778,21 @@
       "id": "e62d3550-22cf-4748-86da-503f5c586499",
       "email": "Philip440@bandwidth.com",
       "items": [
-        { "id": "978-0-07-204318-1", "department": "books", "price": 15 },
+        {
+          "id": "978-0-07-204318-1",
+          "department": "books",
+          "price": 15
+        },
         {
           "id": "ae6c7910-f166-4efd-8c35-e88fa1d58774",
           "department": "music",
           "price": 15
         },
-        { "id": "978-0-07-204318-1", "department": "books", "price": 15 }
+        {
+          "id": "978-0-07-204318-1",
+          "department": "books",
+          "price": 15
+        }
       ],
       "totalItems": 3,
       "totalPrice": 45
@@ -649,7 +801,11 @@
       "id": "c5cbd709-025d-43b9-8efb-5157094d7ccf",
       "email": "Josue155@program.com",
       "items": [
-        { "id": "978-1-75587-108-4", "department": "books", "price": 15 },
+        {
+          "id": "978-1-75587-108-4",
+          "department": "books",
+          "price": 15
+        },
         {
           "id": "286335b1-8531-4844-8070-8ea26fd09d31",
           "department": "music",
@@ -678,14 +834,26 @@
       "id": "a5e4173c-810e-4c67-b55a-7dd6eb10a415",
       "email": "Adrian810@hard drive.com",
       "items": [
-        { "id": "978-0-8039-3096-4", "department": "books", "price": 15 },
-        { "id": "978-0-371-48520-0", "department": "books", "price": 20 },
+        {
+          "id": "978-0-8039-3096-4",
+          "department": "books",
+          "price": 15
+        },
+        {
+          "id": "978-0-371-48520-0",
+          "department": "books",
+          "price": 20
+        },
         {
           "id": "cf8651bc-717e-4748-94b7-6ab6502109eb",
           "department": "music",
           "price": 21
         },
-        { "id": "978-0-366-53039-7", "department": "books", "price": 20 },
+        {
+          "id": "978-0-366-53039-7",
+          "department": "books",
+          "price": 20
+        },
         {
           "id": "7ab00ba4-cfb3-4186-9154-81efb406f140",
           "department": "music",
@@ -724,7 +892,11 @@
           "department": "music",
           "price": 15
         },
-        { "id": "978-1-75587-108-4", "department": "books", "price": 15 }
+        {
+          "id": "978-1-75587-108-4",
+          "department": "books",
+          "price": 15
+        }
       ],
       "totalItems": 5,
       "totalPrice": 81
@@ -738,8 +910,16 @@
           "department": "music",
           "price": 20
         },
-        { "id": "978-1-107-33691-9", "department": "books", "price": 15 },
-        { "id": "978-1-4463-0585-0", "department": "books", "price": 21 }
+        {
+          "id": "978-1-107-33691-9",
+          "department": "books",
+          "price": 15
+        },
+        {
+          "id": "978-1-4463-0585-0",
+          "department": "books",
+          "price": 21
+        }
       ],
       "totalItems": 3,
       "totalPrice": 56
@@ -763,7 +943,11 @@
           "department": "music",
           "price": 17
         },
-        { "id": "978-0-04-813606-0", "department": "books", "price": 17 },
+        {
+          "id": "978-0-04-813606-0",
+          "department": "books",
+          "price": 17
+        },
         {
           "id": "4704d833-8a7c-460c-a61e-1069261d219e",
           "department": "music",
@@ -782,7 +966,11 @@
       "id": "53f2eea9-cb22-4dc2-bfbb-46b84258ea24",
       "email": "Camila103@interface.com",
       "items": [
-        { "id": "978-1-84534-768-0", "department": "books", "price": 19 },
+        {
+          "id": "978-1-84534-768-0",
+          "department": "books",
+          "price": 19
+        },
         {
           "id": "1e3f255d-d717-47e4-999e-4803ee68f2f2",
           "department": "music",
@@ -806,7 +994,11 @@
           "department": "music",
           "price": 18
         },
-        { "id": "978-1-56376-709-8", "department": "books", "price": 20 }
+        {
+          "id": "978-1-56376-709-8",
+          "department": "books",
+          "price": 20
+        }
       ],
       "totalItems": 2,
       "totalPrice": 38
@@ -815,14 +1007,26 @@
       "id": "da5a909b-bc52-4e74-90e8-b82f100548a3",
       "email": "Gardner443@feed.com",
       "items": [
-        { "id": "978-1-135-29988-0", "department": "books", "price": 15 },
-        { "id": "978-1-6631-6465-0", "department": "books", "price": 21 },
+        {
+          "id": "978-1-135-29988-0",
+          "department": "books",
+          "price": 15
+        },
+        {
+          "id": "978-1-6631-6465-0",
+          "department": "books",
+          "price": 21
+        },
         {
           "id": "03bd7c5a-e348-4268-8843-ea31f8c0605c",
           "department": "music",
           "price": 18
         },
-        { "id": "978-0-07-204318-1", "department": "books", "price": 15 },
+        {
+          "id": "978-0-07-204318-1",
+          "department": "books",
+          "price": 15
+        },
         {
           "id": "d527bf40-9e9e-489e-9f95-46fb0a40c11f",
           "department": "music",
@@ -887,7 +1091,11 @@
           "department": "music",
           "price": 15
         },
-        { "id": "978-1-75587-108-4", "department": "books", "price": 15 },
+        {
+          "id": "978-1-75587-108-4",
+          "department": "books",
+          "price": 15
+        },
         {
           "id": "cf25568d-ce7c-4863-847f-5b4049d731fd",
           "department": "music",
@@ -911,7 +1119,6 @@
       "id": "cfa02c05-63c2-4700-8c71-3c057321bf70",
       "email": "Margaret936@bandwidth.com",
       "items": [
-        { "id": "978-0-7573-7255-1", "department": "books", "price": 19 },
         {
           "id": "5b7302cb-2935-49b1-813c-ea1f44e08a2a",
           "department": "music",
@@ -928,8 +1135,8 @@
           "price": 19
         }
       ],
-      "totalItems": 4,
-      "totalPrice": 79
+      "totalItems": 3,
+      "totalPrice": 60
     },
     {
       "id": "4fe69036-802d-40e4-8465-cb56efc608e8",
@@ -968,7 +1175,11 @@
           "department": "music",
           "price": 18
         },
-        { "id": "978-0-524-46717-6", "department": "books", "price": 16 }
+        {
+          "id": "978-0-524-46717-6",
+          "department": "books",
+          "price": 16
+        }
       ],
       "totalItems": 3,
       "totalPrice": 56
@@ -977,7 +1188,11 @@
       "id": "309f834c-1338-4d36-92a5-9371bdd67133",
       "email": "Katlyn385@driver.com",
       "items": [
-        { "id": "978-0-366-53039-7", "department": "books", "price": 20 }
+        {
+          "id": "978-0-366-53039-7",
+          "department": "books",
+          "price": 20
+        }
       ],
       "totalItems": 1,
       "totalPrice": 20
@@ -986,10 +1201,26 @@
       "id": "bc9075df-e0f5-4b7d-89e9-a4571abd6ee8",
       "email": "Jamie697@system.com",
       "items": [
-        { "id": "978-1-4741-7413-8", "department": "books", "price": 23 },
-        { "id": "978-1-9821-4567-5", "department": "books", "price": 16 },
-        { "id": "978-0-366-53039-7", "department": "books", "price": 20 },
-        { "id": "978-1-4463-0585-0", "department": "books", "price": 21 },
+        {
+          "id": "978-1-4741-7413-8",
+          "department": "books",
+          "price": 23
+        },
+        {
+          "id": "978-1-9821-4567-5",
+          "department": "books",
+          "price": 16
+        },
+        {
+          "id": "978-0-366-53039-7",
+          "department": "books",
+          "price": 20
+        },
+        {
+          "id": "978-1-4463-0585-0",
+          "department": "books",
+          "price": 21
+        },
         {
           "id": "03bd7c5a-e348-4268-8843-ea31f8c0605c",
           "department": "music",
@@ -1008,13 +1239,21 @@
           "department": "music",
           "price": 20
         },
-        { "id": "978-0-04-813606-0", "department": "books", "price": 17 },
+        {
+          "id": "978-0-04-813606-0",
+          "department": "books",
+          "price": 17
+        },
         {
           "id": "21e77f80-2380-4c3e-aaf6-498a33e61bcf",
           "department": "music",
           "price": 18
         },
-        { "id": "978-1-107-33691-9", "department": "books", "price": 15 }
+        {
+          "id": "978-1-107-33691-9",
+          "department": "books",
+          "price": 15
+        }
       ],
       "totalItems": 4,
       "totalPrice": 70
@@ -1084,7 +1323,11 @@
           "department": "music",
           "price": 19
         },
-        { "id": "978-0-07-204318-1", "department": "books", "price": 15 }
+        {
+          "id": "978-0-07-204318-1",
+          "department": "books",
+          "price": 15
+        }
       ],
       "totalItems": 4,
       "totalPrice": 64
@@ -1162,8 +1405,16 @@
           "department": "music",
           "price": 16
         },
-        { "id": "978-0-7573-7255-1", "department": "books", "price": 19 },
-        { "id": "978-1-4330-7985-6", "department": "books", "price": 22 },
+        {
+          "id": "978-0-7573-7255-1",
+          "department": "books",
+          "price": 19
+        },
+        {
+          "id": "978-1-4330-7985-6",
+          "department": "books",
+          "price": 22
+        },
         {
           "id": "1e3f255d-d717-47e4-999e-4803ee68f2f2",
           "department": "music",
@@ -1182,8 +1433,16 @@
           "department": "music",
           "price": 15
         },
-        { "id": "978-1-4463-0585-0", "department": "books", "price": 21 },
-        { "id": "978-1-9821-4567-5", "department": "books", "price": 16 }
+        {
+          "id": "978-1-4463-0585-0",
+          "department": "books",
+          "price": 21
+        },
+        {
+          "id": "978-1-9821-4567-5",
+          "department": "books",
+          "price": 16
+        }
       ],
       "totalItems": 3,
       "totalPrice": 52
@@ -1192,7 +1451,11 @@
       "id": "b87d6be6-59f4-471e-90af-0c7940594a08",
       "email": "Josue155@program.com",
       "items": [
-        { "id": "978-0-357-83307-0", "department": "books", "price": 15 },
+        {
+          "id": "978-0-357-83307-0",
+          "department": "books",
+          "price": 15
+        },
         {
           "id": "5b7302cb-2935-49b1-813c-ea1f44e08a2a",
           "department": "music",
@@ -1259,7 +1522,11 @@
           "department": "music",
           "price": 20
         },
-        { "id": "978-1-9821-4567-5", "department": "books", "price": 16 }
+        {
+          "id": "978-1-9821-4567-5",
+          "department": "books",
+          "price": 16
+        }
       ],
       "totalItems": 2,
       "totalPrice": 36
@@ -1301,7 +1568,11 @@
       "id": "cd186fc4-62a8-4433-900d-40f09a48ad2f",
       "email": "jose@matrix.com",
       "items": [
-        { "id": "978-1-107-33691-9", "department": "books", "price": 15 },
+        {
+          "id": "978-1-107-33691-9",
+          "department": "books",
+          "price": 15
+        },
         {
           "id": "ae6c7910-f166-4efd-8c35-e88fa1d58774",
           "department": "music",
@@ -1340,7 +1611,11 @@
           "department": "music",
           "price": 18
         },
-        { "id": "978-1-84534-768-0", "department": "books", "price": 19 },
+        {
+          "id": "978-1-84534-768-0",
+          "department": "books",
+          "price": 19
+        },
         {
           "id": "03bd7c5a-e348-4268-8843-ea31f8c0605c",
           "department": "music",
@@ -1392,7 +1667,11 @@
           "department": "music",
           "price": 19
         },
-        { "id": "978-0-7573-7255-1", "department": "books", "price": 19 }
+        {
+          "id": "978-0-7573-7255-1",
+          "department": "books",
+          "price": 19
+        }
       ],
       "totalItems": 5,
       "totalPrice": 102
@@ -1406,7 +1685,11 @@
           "department": "music",
           "price": 18
         },
-        { "id": "978-0-371-48520-0", "department": "books", "price": 20 },
+        {
+          "id": "978-0-371-48520-0",
+          "department": "books",
+          "price": 20
+        },
         {
           "id": "286335b1-8531-4844-8070-8ea26fd09d31",
           "department": "music",
@@ -1425,7 +1708,11 @@
           "department": "music",
           "price": 18
         },
-        { "id": "978-0-7536-5990-8", "department": "books", "price": 18 }
+        {
+          "id": "978-0-7536-5990-8",
+          "department": "books",
+          "price": 18
+        }
       ],
       "totalItems": 2,
       "totalPrice": 36
@@ -1439,7 +1726,11 @@
           "department": "music",
           "price": 19
         },
-        { "id": "978-0-357-83307-0", "department": "books", "price": 15 },
+        {
+          "id": "978-0-357-83307-0",
+          "department": "books",
+          "price": 15
+        },
         {
           "id": "953259b1-fdbf-4a45-a98f-e13f9be044d2",
           "department": "music",
@@ -1463,7 +1754,11 @@
           "department": "music",
           "price": 15
         },
-        { "id": "978-1-6631-6465-0", "department": "books", "price": 21 },
+        {
+          "id": "978-1-6631-6465-0",
+          "department": "books",
+          "price": 21
+        },
         {
           "id": "62ecaf8a-c0ae-4689-9ff0-9202c85762ea",
           "department": "music",
@@ -1482,7 +1777,11 @@
           "department": "music",
           "price": 20
         },
-        { "id": "978-0-371-48520-0", "department": "books", "price": 20 },
+        {
+          "id": "978-0-371-48520-0",
+          "department": "books",
+          "price": 20
+        },
         {
           "id": "286335b1-8531-4844-8070-8ea26fd09d31",
           "department": "music",
@@ -1501,14 +1800,26 @@
           "department": "music",
           "price": 19
         },
-        { "id": "978-1-4463-0585-0", "department": "books", "price": 21 },
+        {
+          "id": "978-1-4463-0585-0",
+          "department": "books",
+          "price": 21
+        },
         {
           "id": "21e77f80-2380-4c3e-aaf6-498a33e61bcf",
           "department": "music",
           "price": 18
         },
-        { "id": "978-1-107-33691-9", "department": "books", "price": 15 },
-        { "id": "978-0-357-83307-0", "department": "books", "price": 15 }
+        {
+          "id": "978-1-107-33691-9",
+          "department": "books",
+          "price": 15
+        },
+        {
+          "id": "978-0-357-83307-0",
+          "department": "books",
+          "price": 15
+        }
       ],
       "totalItems": 5,
       "totalPrice": 88
@@ -1517,8 +1828,16 @@
       "id": "9773dfb0-2daa-4f85-878d-1b044536e75d",
       "email": "batman21@batcave.net",
       "items": [
-        { "id": "978-1-4741-7413-8", "department": "books", "price": 23 },
-        { "id": "978-0-8039-3096-4", "department": "books", "price": 15 },
+        {
+          "id": "978-1-4741-7413-8",
+          "department": "books",
+          "price": 23
+        },
+        {
+          "id": "978-0-8039-3096-4",
+          "department": "books",
+          "price": 15
+        },
         {
           "id": "cf25568d-ce7c-4863-847f-5b4049d731fd",
           "department": "music",
@@ -1529,8 +1848,16 @@
           "department": "music",
           "price": 21
         },
-        { "id": "978-0-04-813606-0", "department": "books", "price": 17 },
-        { "id": "978-1-107-33691-9", "department": "books", "price": 15 }
+        {
+          "id": "978-0-04-813606-0",
+          "department": "books",
+          "price": 17
+        },
+        {
+          "id": "978-1-107-33691-9",
+          "department": "books",
+          "price": 15
+        }
       ],
       "totalItems": 6,
       "totalPrice": 109
@@ -1544,12 +1871,29 @@
           "department": "music",
           "price": 18
         },
-        { "id": "978-0-371-48520-0", "department": "books", "price": 20 },
-        { "id": "978-1-9821-4567-5", "department": "books", "price": 16 },
-        { "id": "978-1-84534-768-0", "department": "books", "price": 19 }
+        {
+          "id": "978-0-371-48520-0",
+          "department": "books",
+          "price": 20
+        },
+        {
+          "id": "978-1-9821-4567-5",
+          "department": "books",
+          "price": 16
+        },
+        {
+          "id": "978-1-84534-768-0",
+          "department": "books",
+          "price": 19
+        },
+        {
+          "id": "ad90b10f-26f3-4268-8b84-d682e3a71444",
+          "department": "music",
+          "price": 18
+        }
       ],
-      "totalItems": 4,
-      "totalPrice": 73
+      "totalItems": 5,
+      "totalPrice": 91
     },
     {
       "id": "85de773b-8b0c-42c3-8f18-4b79d71dfad0",
@@ -1613,11 +1957,6 @@
       "email": "Sydney150@interface.com",
       "items": [
         {
-          "id": "953259b1-fdbf-4a45-a98f-e13f9be044d2",
-          "department": "music",
-          "price": 15
-        },
-        {
           "id": "8d618c33-bf93-48d1-86b6-8aeb442019d3",
           "department": "music",
           "price": 15
@@ -1625,6 +1964,11 @@
         {
           "id": "953259b1-fdbf-4a45-a98f-e13f9be044d2",
           "department": "music",
+          "price": 15
+        },
+        {
+          "id": "978-0-357-83307-0",
+          "department": "books",
           "price": 15
         }
       ],
@@ -1650,8 +1994,16 @@
           "department": "music",
           "price": 19
         },
-        { "id": "978-0-371-48520-0", "department": "books", "price": 20 },
-        { "id": "978-1-135-29988-0", "department": "books", "price": 15 }
+        {
+          "id": "978-0-371-48520-0",
+          "department": "books",
+          "price": 20
+        },
+        {
+          "id": "978-1-135-29988-0",
+          "department": "books",
+          "price": 15
+        }
       ],
       "totalItems": 5,
       "totalPrice": 90
@@ -1665,7 +2017,11 @@
           "department": "music",
           "price": 20
         },
-        { "id": "978-1-359-68117-1", "department": "books", "price": 22 }
+        {
+          "id": "978-1-359-68117-1",
+          "department": "books",
+          "price": 22
+        }
       ],
       "totalItems": 2,
       "totalPrice": 42
@@ -1720,8 +2076,16 @@
           "department": "music",
           "price": 17
         },
-        { "id": "978-1-56376-709-8", "department": "books", "price": 20 },
-        { "id": "978-0-357-83307-0", "department": "books", "price": 15 },
+        {
+          "id": "978-1-56376-709-8",
+          "department": "books",
+          "price": 20
+        },
+        {
+          "id": "978-0-357-83307-0",
+          "department": "books",
+          "price": 15
+        },
         {
           "id": "ad650d6b-ba9c-42bb-8fa3-b7e13e35b49b",
           "department": "music",
@@ -1735,8 +2099,16 @@
       "id": "cd41055c-3fee-4ee9-ac6d-e19007503f0f",
       "email": "Melyssa127@interface.com",
       "items": [
-        { "id": "978-1-4330-7985-6", "department": "books", "price": 22 },
-        { "id": "978-1-135-29988-0", "department": "books", "price": 15 },
+        {
+          "id": "978-1-4330-7985-6",
+          "department": "books",
+          "price": 22
+        },
+        {
+          "id": "978-1-135-29988-0",
+          "department": "books",
+          "price": 15
+        },
         {
           "id": "ad90b10f-26f3-4268-8b84-d682e3a71444",
           "department": "music",
@@ -1750,6 +2122,62 @@
       ],
       "totalItems": 4,
       "totalPrice": 75
+    },
+    {
+      "id": "a550b4f5-dbda-40c8-8829-ec256fbc5f7b",
+      "email": "batman21@batcave.net",
+      "items": [
+        {
+          "id": "d527bf40-9e9e-489e-9f95-46fb0a40c11f",
+          "department": "music",
+          "price": 17
+        },
+        {
+          "id": "978-1-75587-108-4",
+          "department": "books",
+          "price": 15
+        },
+        {
+          "id": "cf25568d-ce7c-4863-847f-5b4049d731fd",
+          "department": "music",
+          "price": 18
+        },
+        {
+          "id": "978-0-524-46717-6",
+          "department": "books",
+          "price": 16
+        }
+      ],
+      "totalItems": 4,
+      "totalPrice": 66
+    },
+    {
+      "id": "c09d217d-ea8c-4299-a767-55522b611171",
+      "email": "Lolita984@array.com",
+      "items": [
+        {
+          "id": "21e77f80-2380-4c3e-aaf6-498a33e61bcf",
+          "department": "music",
+          "price": 18
+        },
+        {
+          "id": "4704d833-8a7c-460c-a61e-1069261d219e",
+          "department": "music",
+          "price": 19
+        },
+        {
+          "id": "21e77f80-2380-4c3e-aaf6-498a33e61bcf",
+          "department": "music",
+          "price": 18
+        },
+        {
+          "id": "978-1-84534-768-0",
+          "department": "books",
+          "price": 19
+        }
+      ],
+      "totalItems": 4,
+      "totalPrice": 74
     }
   ],
   "users": [
@@ -1823,11 +2251,11 @@
       "firstName": "Lolita",
       "lastName": "Kreiger",
       "full_name": "Lolita Kreiger",
-      "address1": "736 Sicard Street Southeast",
+      "address1": "1223 Delaware Avenue",
       "address2": "",
-      "city": "Washington",
-      "state": "DC",
-      "zipCode": "20003",
+      "city": "Deale",
+      "state": "MD",
+      "zipCode": "20733",
       "phoneNumber": "(984) 555-1140",
       "alternative_phone": "",
       "company": "Kreiger interface",
@@ -1999,11 +2427,11 @@
       "firstName": "Margaret",
       "lastName": "Lindgren",
       "full_name": "Margaret Lindgren",
-      "address1": "3408 Bellisima Place",
-      "address2": "#204",
-      "city": "Louisville",
-      "state": "KY",
-      "zipCode": "40245",
+      "address1": "9036 Calico Court",
+      "address2": "",
+      "city": "Hesperia",
+      "state": "CA",
+      "zipCode": "92344",
       "phoneNumber": "(936) 555-2870",
       "alternative_phone": "",
       "company": "Lindgren sensor",
@@ -2166,6 +2594,22 @@
       "phoneNumber": "(127) 555-7092",
       "alternative_phone": "",
       "company": "Carroll bandwidth",
+      "country": "United States"
+    },
+    {
+      "id": "Al51179",
+      "email": "Alex51179@array.com",
+      "firstName": "Alex",
+      "lastName": "Kshlerin",
+      "full_name": "Alex Kshlerin",
+      "address1": "5065 North 54th Avenue",
+      "address2": "#8",
+      "city": "Glendale",
+      "state": "AZ",
+      "zipCode": "85301",
+      "phoneNumber": "(512)-555-3534",
+      "alternative_phone": "",
+      "company": "feed Enterprises",
       "country": "United States"
     }
   ],
